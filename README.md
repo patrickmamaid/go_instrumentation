@@ -10,11 +10,11 @@ Very quick boilerplate code to get you going on golang instrumentation with prom
 
 ## init:
 ```shell
-# term1 
+# terminal 1 
 ./init.sh
 ./run.sh
 
-# term2
+# terminal 2
 ./curltest.sh
 ```
 
