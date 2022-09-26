@@ -1,5 +1,5 @@
 # [Boilerplate] Prometheus instrumentation in go
-## ~golang v1.18~
+## golang v1.18
 
 `EST: 5 mins to understand and use`
 
