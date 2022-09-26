@@ -1,6 +1,11 @@
 # [Boilerplate] Prometheus instrumentation in go
 ## golang v1.18
 
+
+## Goal: 
+![img.png](img.png)
+![img_1.png](img_1.png)
+
 `EST: 5 mins to understand and use`
 
 Very quick boilerplate code to get you going on golang instrumentation with prometheus
