@@ -1,5 +1,7 @@
-# go_instrumentation
+# [Boilerplate] Prometheus instrumentation in go
+## ~golang v1.18~
 
+`EST: 5 mins to understand and use`
 
 Very quick boilerplate code to get you going on golang instrumentation with prometheus
 1. Easily expose :2112/metrics for any service you want (you can change this port in main.go)
